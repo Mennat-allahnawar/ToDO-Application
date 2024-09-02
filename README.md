@@ -3,8 +3,6 @@ Here's a sample README file for your project:
 
 ---
 
-# Worker Task Management System
-
 ## Description
 
 This project is a front-end application designed to help workers manage their daily tasks efficiently. The system allows workers to log in, add tasks, and manage them by completing or deleting them. Additionally, the application offers customizable color themes to enhance the user experience.
